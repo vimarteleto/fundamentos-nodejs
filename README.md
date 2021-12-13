@@ -19,7 +19,7 @@ yarn add nodemon -D
 ```
 <br>
 
-## Tipos de parâmetros
+### Tipos de parâmetros
 Parâmetros de rota: identificação de recurso, edição, exclusão ou busca
 ```js
 'rota/api/recurso/:id'
