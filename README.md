@@ -1,6 +1,6 @@
 # Trilha Node.js do programa Rocketseat Ignite
 ## Fundamentos Node.js
-#
+
 Criação do package.json com yarn:
 ```bash
 yarn init -y
